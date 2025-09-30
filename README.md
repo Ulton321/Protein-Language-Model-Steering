@@ -133,9 +133,9 @@ Protein-Language-Model-Steering/
 
 This project uses the following third-party models:
 
-- **Model A** - [MIT License](LICENSES/LICENSE.modelA.txt)
-- **Model B** - [Apache 2.0 License](LICENSES/LICENSE.modelB.txt)
-- **Model C** - [BSD License](LICENSES/LICENSE.modelC.txt)
+- **[Esm3](https://github.com/PKU-YuanGroup/ProLLaMA)** - [MIT License](LICENSES/LICENSE.modelA.txt)
+- **[Prollama](https://github.com/PKU-YuanGroup/ProLLaMA)** - [Apache 2.0 License](LICENSES/LICENSE.modelB.txt)
+- **[ProGen2](https://github.com/hugohrban/ProGen2-finetuning#data-preparation)** - [BSD License](LICENSES/LICENSE.modelC.txt)
 
 Please refer to the respective license files in the `LICENSES/` directory for details.
 
