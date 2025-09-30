@@ -17,7 +17,6 @@
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -171,12 +170,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-## Contact
-
-For questions, feature requests, or collaborations:
-- Open an issue on GitHub
-- Email: [ulton321@gmail.com](mailto:ulton321@gmail.com)
-
----
 
 *Empowering protein research through deep learning and open science.*
