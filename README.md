@@ -2,7 +2,9 @@
 
 ## Overview
 
-**Protein-Language-Model-Steering** is an advanced toolkit for steering, fine-tuning, and analyzing protein language models (PLMs) using Jupyter notebooks. This repository is designed to help researchers in bioinformatics and protein engineering understand, customize, and deploy deep learning models for protein sequence analysis.
+This repository includes the code for the paper Weight- and Activation-Based Steering Methods Provide Complementary Control of Biochemical Traits in Protein Language Models.
+
+We note that for SAE-based steering, we use SAEFold from Parsan et al., 2025. Their repository is available here. We are not able to include it in our repository due to licensing issues.
 
 ---
 
