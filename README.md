@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository includes the code for the paper Weight- and Activation-Based Steering Methods Provide Complementary Control of Biochemical Traits in Protein Language Models.
+This repository includes the code for the paper Where to Edit? : Complementary Protein Property Control from Weight and Activation Spaces.
 
 We note that for SAE-based steering, we use SAEFold from Parsan et al., 2025. Their repository is available here. We are not able to include it in our repository due to licensing issues.
 
