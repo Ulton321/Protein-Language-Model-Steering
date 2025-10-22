@@ -1,4 +1,4 @@
-# Protein-Language-Model-Steering
+# 🧬 Protein-Language-Model-Steering🧬
 
 ## Overview
 
@@ -117,7 +117,7 @@ In your browser, open the notebook you wish to run (e.g., `notebooks/plm_steerin
 ```
 Protein-Language-Model-Steering/
 │
-├── data/                # Input protein sequences
+├── data/                # Input/Output protein sequences
 ├── notebooks/           # Jupyter Notebooks for workflows
 ├── results/             # Output files and figures
 ├── checkpoints/         # Saved models
@@ -154,7 +154,6 @@ See the `docs/` directory for:
 
 - Getting Started Guide
 - Model architecture overview
-- API references
 - Data format documentation
 - Benchmarking protocols
 
